@@ -1,3 +1,4 @@
 #scoala-informala-homework
-
 salut
+ int a;
+ scanner scan = new scanner(system.in);
